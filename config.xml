@@ -6,7 +6,7 @@
         id        = "com.eduonix.test_app"
         version   = "1.0.0">
 
-    <name>Testing Application</name>
+    <name>Accelerator Test</name>
 
     <description>
         This is a testing app for PhoneGap
