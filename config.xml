@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.eduonix.test_app"
+        id        = "com.highbrookcreate.accelTest"
         version   = "1.0.0">
 
     <name>Accelerator Test</name>
 
     <description>
-        This is a testing app for PhoneGap
+        This is a test of the Accelerometer!
     </description>
 
     <author href="http://eduonix.com" email="support@eduonix.com">
